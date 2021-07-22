@@ -4,3 +4,7 @@ GIGAスクール構想で小中学生に配布されたデジタル端末を用�
 ## テーマソング
 [Free to the Map](https://github.com/osmfj/sotm2012tokyo)
 
+
+
+## このリポジトリに集まったアイディアのライセンス
+WFTPL
