@@ -1,0 +1,2 @@
+# freetothemap4boe
+GIGAスクール構想で小中学生に配布されたデジタル端末
