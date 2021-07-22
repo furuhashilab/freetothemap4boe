@@ -1,5 +1,6 @@
 # freetothemap4boe
-GIGAスクール構想で小中学生に配布されたデジタル端末を用いた地図教育を本気で考えるための公開リポジトリ
+GIGAスクール構想で小中学生に配布されたデジタル端末を用いた地図教育を本気で考えるための公開リポジトリです。
+[Issues](https://github.com/furuhashilab/freetothemap4boe/issues) にみなさんからの情報提供をお待ちします。適宜進捗もこちらに公開していきます。
 
 ## とりあえず気づいたことを [Issues](https://github.com/furuhashilab/freetothemap4boe/issues) にまとめています。
 * [埼玉県所沢市の状況](https://github.com/furuhashilab/freetothemap4boe/labels/%E6%89%80%E6%B2%A2%E5%B8%82)
