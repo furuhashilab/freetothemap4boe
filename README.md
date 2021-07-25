@@ -6,6 +6,7 @@ GIGAスクール構想で小中学生に配布されたデジタル端末を用�
 
 
 ## とりあえず気づいたことを [Issues](https://github.com/furuhashilab/freetothemap4boe/issues) にまとめています。
+* [埼玉県川越市の状況](https://github.com/furuhashilab/freetothemap4boe/issues/13)
 * [埼玉県所沢市の状況](https://github.com/furuhashilab/freetothemap4boe/labels/%E6%89%80%E6%B2%A2%E5%B8%82)
 * [千葉県千葉市の状況](https://github.com/furuhashilab/freetothemap4boe/issues/6)
 * [東京都港区の状況](https://github.com/furuhashilab/freetothemap4boe/issues/8)
