@@ -8,3 +8,7 @@
 
 ## 所沢市用ホワイトリスト
 * 
+
+
+---
+[全国リストに戻る](https://github.com/furuhashilab/freetothemap4boe/tree/main/whitelists)
