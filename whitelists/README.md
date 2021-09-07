@@ -8,6 +8,6 @@
 * 内容は属性は作りながら適宜アップデートしていく
 
 ## 試作データ
-* 所沢市GIGAスクール端末用ホワイトリスト
+* [所沢市GIGAスクール端末用ホワイトリスト](https://github.com/furuhashilab/freetothemap4boe/blob/main/whitelists/tokorozawacity.md)
 
 
